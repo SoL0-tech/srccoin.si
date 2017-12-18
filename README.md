@@ -33,3 +33,7 @@ Encouraging multiple implementations, each having their own “master” branch 
 ## [Protocol]
 
 Thinking of making it a stateless HTTP-based API, where you don't need to run a special client, just setup a website and you're done.
+
+## [Discuss]
+
+Telegram group: https://t.me/joinchat/HSq7QA9shlCcFDuniuKCdg
